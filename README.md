@@ -7,4 +7,4 @@ Download the repo go the directory
 `dataset/santa` = feed images you want to keep
 `dataset/notSanta` = feed images you want to remove
 
-run - `python `
+run - `python test_network.py`
