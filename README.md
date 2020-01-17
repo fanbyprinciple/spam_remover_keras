@@ -8,3 +8,5 @@ Download the repo go the directory
 `dataset/notSanta` = feed images you want to remove
 
 run - `python test_network.py`
+
+Need to update this.
