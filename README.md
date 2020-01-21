@@ -1,4 +1,7 @@
 # image-classification-keras
+
+# This is an old example also refer to binary classifier in machine mash
+
 given a folder with image files it performs binary image classification into seperate folder
 
 Download the repo go the directory
